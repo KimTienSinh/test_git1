@@ -2,4 +2,3 @@
 fileaaaa (test git)
 =======
 fileaaaa (test git) 2
->>>>>>> Stashed changes
